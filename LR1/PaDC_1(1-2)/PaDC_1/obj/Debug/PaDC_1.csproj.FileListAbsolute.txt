@@ -1,0 +1,7 @@
+C:\Users\vstas\source\repos\PaDC_1\PaDC_1\bin\Debug\PaDC_1.exe.config
+C:\Users\vstas\source\repos\PaDC_1\PaDC_1\bin\Debug\PaDC_1.exe
+C:\Users\vstas\source\repos\PaDC_1\PaDC_1\bin\Debug\PaDC_1.pdb
+C:\Users\vstas\source\repos\PaDC_1\PaDC_1\obj\Debug\PaDC_1.csprojAssemblyReference.cache
+C:\Users\vstas\source\repos\PaDC_1\PaDC_1\obj\Debug\PaDC_1.csproj.CoreCompileInputs.cache
+C:\Users\vstas\source\repos\PaDC_1\PaDC_1\obj\Debug\PaDC_1.exe
+C:\Users\vstas\source\repos\PaDC_1\PaDC_1\obj\Debug\PaDC_1.pdb

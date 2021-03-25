@@ -1,0 +1,10 @@
+C:\Users\vstas\source\repos\PaDC_1\PaDC_1_3\bin\Release\PaDC_1_3.exe.config
+C:\Users\vstas\source\repos\PaDC_1\PaDC_1_3\bin\Release\PaDC_1_3.exe
+C:\Users\vstas\source\repos\PaDC_1\PaDC_1_3\bin\Release\PaDC_1_3.pdb
+C:\Users\vstas\source\repos\PaDC_1\PaDC_1_3\bin\Release\nunit.framework.dll
+C:\Users\vstas\source\repos\PaDC_1\PaDC_1_3\bin\Release\nunit.framework.xml
+C:\Users\vstas\source\repos\PaDC_1\PaDC_1_3\obj\Release\PaDC_1_3.csprojAssemblyReference.cache
+C:\Users\vstas\source\repos\PaDC_1\PaDC_1_3\obj\Release\PaDC_1_3.csproj.CoreCompileInputs.cache
+C:\Users\vstas\source\repos\PaDC_1\PaDC_1_3\obj\Release\PaDC_1_3.csproj.CopyComplete
+C:\Users\vstas\source\repos\PaDC_1\PaDC_1_3\obj\Release\PaDC_1_3.exe
+C:\Users\vstas\source\repos\PaDC_1\PaDC_1_3\obj\Release\PaDC_1_3.pdb
