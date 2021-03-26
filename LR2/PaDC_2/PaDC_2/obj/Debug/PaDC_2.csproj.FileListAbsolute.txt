@@ -1,0 +1,9 @@
+C:\Users\vstas\source\repos\PaDC_2\PaDC_2\obj\Debug\PaDC_2.csprojAssemblyReference.cache
+C:\Users\vstas\source\repos\PaDC_2\PaDC_2\obj\Debug\PaDC_2.csproj.CoreCompileInputs.cache
+C:\Users\vstas\source\repos\PaDC_2\PaDC_2\bin\Debug\PaDC_2.exe.config
+C:\Users\vstas\source\repos\PaDC_2\PaDC_2\bin\Debug\PaDC_2.exe
+C:\Users\vstas\source\repos\PaDC_2\PaDC_2\bin\Debug\PaDC_2.pdb
+C:\Users\vstas\source\repos\PaDC_2\PaDC_2\obj\Debug\PaDC_2.exe
+C:\Users\vstas\source\repos\PaDC_2\PaDC_2\obj\Debug\PaDC_2.pdb
+C:\Users\vstas\source\repos\PaDC_2\PaDC_2\bin\Debug\System.Drawing.Common.dll
+C:\Users\vstas\source\repos\PaDC_2\PaDC_2\obj\Debug\PaDC_2.csproj.CopyComplete
